@@ -1,4 +1,4 @@
-# Product Recommendation System
+# Product Recommendation System with PCA generated weights
 
 This repository contains the implementation of a product recommendation system for a convenience store chain, based on a combination of SQL and Principal Component Analysis (PCA) to compute weighted scores for products.
 
